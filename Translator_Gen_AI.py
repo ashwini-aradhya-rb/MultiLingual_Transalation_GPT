@@ -6,7 +6,7 @@ import pandas as pd
 import pdfplumber
 
 # Set your OpenAI API key
-openai.api_key = "sk-proj-xxxxxxxxxxxxxxxxxxxxx"
+openai.api_key = "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"
 
 # Streamlit app configuration
 st.title("Text Translator and Speech Synthesizer")
