@@ -2,3 +2,4 @@ streamlit
 openai
 gtts
 pandas
+pdfplumber
